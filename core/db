@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "a07bc385-e498-463a-9fb9-c437eeaeea9a",
+      "date": "2023-08-08T19:04:21.113Z",
+      "content": "Hoje eu preciso estudar",
+      "done": false
+    },
+    {
+      "id": "47089098-214f-45af-b071-bd7fe07c98c2",
+      "date": "2023-08-08T19:04:21.114Z",
+      "content": "Terceira TODO com novo content",
+      "done": false
+    }
+  ]
+}
